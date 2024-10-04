@@ -12,3 +12,4 @@ npm i nodemon -g
 ```
 npm i ejs
 ```
+- You have to add .txt extension when updating a file's new name. 
